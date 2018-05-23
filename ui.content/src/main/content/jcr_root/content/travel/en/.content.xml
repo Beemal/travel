@@ -88,5 +88,7 @@
                     sling:resourceType="travel/components/content/sharing"/>
             </responsivegrid>
         </root>
+        <image/>
     </jcr:content>
+    <en/>
 </jcr:root>
